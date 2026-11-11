@@ -1,0 +1,9 @@
+{
+  "name": "Copy of KrishiSetu",
+  "description": "AI-powered agriculture ecosystem connecting farmers, buyers, and workers with real-time market data and AI insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
